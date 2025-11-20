@@ -1,0 +1,1 @@
+{"deleted_at":"2025-11-07T15:25:20+01:00","deleted_by_ip":"::1","script":"delete.php","record":{"id":"4","full_name":"Eric","student_id":"70003867","email":"eric@gmail.com","dob":"1988-08-06","course":"Marketing","enrollment_date":"2022-07-06","status":"1","created_at":"2025-11-07 09:39:45","updated_at":"2025-11-07 09:55:04"}}
